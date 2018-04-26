@@ -1,0 +1,8 @@
+.carousel ul {
+	display: flex;
+}
+
+.carousel img {
+	width: 400;
+	height: 250;
+}
