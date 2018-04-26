@@ -1,8 +1,23 @@
+.carousel {
+	width: 400;
+	height: 250;
+	border: 5px solid blue;
+	margin: 0 auto;
+	overflow: hidden;
+}
 .carousel ul {
 	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
 }
 
 .carousel img {
 	width: 400;
 	height: 250;
+}
+
+.controls {
+  text-align: center;
+  margin: 10px;
 }
